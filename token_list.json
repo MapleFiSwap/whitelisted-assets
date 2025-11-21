@@ -1,22 +1,22 @@
 {
-    "name": "ApeFiSwap Tokens",
-    "logoURI": "https://github.com/ApeFiSwap/whitelisted-assets/blob/main/apefiswap.png",
+    "name": "MapleFiSwap Tokens",
+    "logoURI": "https://github.com/ApeFiSwap/whitelisted-assets/blob/main/maplefiswap.png",
     "keywords": [
-        "apefiswap",
+        "maplefiswap",
         "defi",
         "derivatives",
-        "apefi",
-        "apeswap"
+        "maplefi",
+        "mapleswap"
     ],
-    "timestamp": "2024-12-16T23:01:51.032Z",
+    "timestamp": "2025-11-16T23:01:51.032Z",
     "tags": {
-        "apefiswap": {
-            "name": "apefiswap",
-            "description": "Ride the DeFi Wave, Swing with ApeFiSwap."
+        "maplefiswap": {
+            "name": "maplefiswap",
+            "description": "Ride the DeFi Wave, Swing with MapleFiSwap."
         },
         "index": {
-            "name": "Index ApeFiSwap",
-            "description": "Ride the DeFi Wave, Swing with ApeFiSwap."
+            "name": "Index MapleFiSwap",
+            "description": "Ride the DeFi Wave, Swing with MapleFiSwap."
         }
     },
     "version": {
@@ -26,48 +26,27 @@
     },
     "tokens": [
         {
-            "chainId": 33139,
-            "address": "0x48b62137EdfA95a428D35C09E44256a739F6B557",
-            "symbol": "WAPE",
-            "name": "Wrapped APE Coin",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ApeFiSwap/whitelisted-assets/refs/heads/main/0x48b62137EdfA95a428D35C09E44256a739F6B557/logo.svg",
-            "tags": [
-			"wrappedape"
-			]
-        },
-        {
-            "chainId": 33139,
-            "address": "0xcF800F4948D16F23333508191B1B1591daF70438",
-            "symbol": "ApeETH",
-            "name": "Ape ETH",
+            "chainId": 8119,
+            "address": "0xfd38F06004136B1528801a48Bd5E6196df165913",
+            "symbol": "MUSDT",
+            "name": "MUSDT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ApeFiSwap/whitelisted-assets/refs/heads/main/0xcF800F4948D16F23333508191B1B1591daF70438/logo.svg",
             "tags": [
-                "apeeth"
+                "musdt"
             ]
         },
         {
-            "chainId": 33139,
-            "address": "0xA2235d059F80e176D931Ef76b6C51953Eb3fBEf4",
-            "symbol": "ApeUSD",
-            "name": "Ape USD",
+            "chainId": 8119,
+            "address": "0xaa266a894CC20a0f6e4996F7cA1d291BC471E146",
+            "symbol": "MUSDC",
+            "name": "MUSDC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ApeFiSwap/whitelisted-assets/refs/heads/main/0xA2235d059F80e176D931Ef76b6C51953Eb3fBEf4/logo.svg",
             "tags": [
-                "apeusd"
+                "musdc"
             ]
-        },
-        {
-            "chainId": 33139,
-            "address": "0xe31C676d8235437597581b44c1c4f8A30e90b38a",
-            "symbol": "GNS",
-            "name": "Gains Network",
-            "decimals": 18,
-            "logoURI": "https://apescan.io/token/images/gns_32.png",
-            "tags": [
-                "apeusd"
-            ]
-        }     
+        }}     
     ]
 }
+
