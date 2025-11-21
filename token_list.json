@@ -1,6 +1,6 @@
 {
     "name": "MapleFiSwap Tokens",
-    "logoURI": "https://github.com/ApeFiSwap/whitelisted-assets/blob/main/maple_icon.png",
+    "logoURI": "https://raw.githubusercontent.com/MapleFiSwap/whitelisted-assets/refs/heads/main/maple_icon.png",
     "keywords": [
         "maplefiswap",
         "defi",
@@ -49,5 +49,6 @@
         }     
     ]
 }
+
 
 
