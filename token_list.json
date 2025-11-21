@@ -1,6 +1,6 @@
 {
     "name": "MapleFiSwap Tokens",
-    "logoURI": "https://github.com/ApeFiSwap/whitelisted-assets/blob/main/maplefiswap.png",
+    "logoURI": "https://github.com/ApeFiSwap/whitelisted-assets/blob/main/maple_icon.png",
     "keywords": [
         "maplefiswap",
         "defi",
@@ -31,7 +31,7 @@
             "symbol": "MUSDT",
             "name": "MUSDT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ApeFiSwap/whitelisted-assets/refs/heads/main/0xcF800F4948D16F23333508191B1B1591daF70438/logo.svg",
+            "logoURI": "https://raw.githubusercontent.com/MapleFiSwap/whitelisted-assets/refs/heads/main/0xfd38F06004136B1528801a48Bd5E6196df165913/logo.svg",
             "tags": [
                 "musdt"
             ]
@@ -42,11 +42,12 @@
             "symbol": "MUSDC",
             "name": "MUSDC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ApeFiSwap/whitelisted-assets/refs/heads/main/0xA2235d059F80e176D931Ef76b6C51953Eb3fBEf4/logo.svg",
+            "logoURI": "https://raw.githubusercontent.com/MapleFiSwap/whitelisted-assets/refs/heads/main/0xaa266a894CC20a0f6e4996F7cA1d291BC471E146/logo.svg",
             "tags": [
                 "musdc"
             ]
-        }}     
+        }     
     ]
 }
+
 
